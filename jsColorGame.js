@@ -28,7 +28,7 @@ easyButton.addEventListener("click", function(){
     }
 });
 //Github is installed successfully 
-
+//test another branch other than Master branch
 hardButton.addEventListener("click", function(){
   hardButton.classList.add("selected");
   easyButton.classList.remove("selected");
